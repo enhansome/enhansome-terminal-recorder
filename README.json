@@ -1,84 +1,211 @@
 {
   "items": [
     {
-      "description": "asciinema [as-kee-nuh-muh] is a free and open source solution for recording terminal sessions and sharing them on the web.",
-      "items": [],
-      "title": "asciinema"
-    },
-    {
-      "description": "agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by asciinema terminal recorder.",
-      "items": [],
-      "title": "agg"
-    },
-    {
-      "description": "Write terminal GIFs as code for integration testing and demoing your CLI tools.",
-      "items": [],
-      "title": "vhs"
-    },
-    {
-      "description": "Record your terminal and generate animated gif images or share a web player link www.terminalizer.com",
-      "items": [],
-      "title": "terminalizer"
-    },
-    {
-      "description": "Screen{shot,cast} and perform ImageOps on the command line - written in Rust",
-      "items": [],
-      "title": "menyoki"
-    },
-    {
-      "description": "Blazingly fast terminal recorder that generates animated gif images for the web written in rust.",
-      "items": [],
-      "title": "t-rec"
-    },
-    {
-      "description": "termtosvg is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.",
-      "items": [],
-      "title": "termtosvg"
-    },
-    {
-      "description": "ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.",
-      "items": [],
-      "title": "ttygif"
-    },
-    {
-      "description": "Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.",
-      "items": [],
-      "title": "ttystudio"
-    },
-    {
-      "description": "Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends.",
-      "items": [],
-      "title": "terminal-recorder"
-    },
-    {
-      "description": "Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained html file that can be run in the browser, to playback the session.",
-      "items": [],
-      "title": "goscript"
-    },
-    {
-      "description": "savvy record starts a new sub-shell and all commands in this shell are recorded and sent to an LLM to generate a runbook. You can also create runbooks from your shell history. Savvy allows you to run any runbook using savvy run.\nsavvy record\nsavvy record history",
-      "items": [],
-      "title": "savvy"
-    },
-    {
-      "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.\nrewindtty record and replay\nrewindtty analyze",
-      "items": [],
-      "title": "rewindtty"
-    },
-    {
-      "description": "script, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with scriptreplay or re-runned with scriptlive.",
-      "items": [],
-      "title": "script"
-    },
-    {
-      "description": "Interested in contributing? Check out the CONTRIBUTING.md file to get started!",
-      "items": [],
-      "title": "🤝 Contributing"
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by asciinema terminal recorder.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 519132476,
+            "language": "Rust",
+            "last_commit": "2026-08-14T09:02:54Z",
+            "owner": "asciinema",
+            "repo": "agg",
+            "stars": 1691
+          },
+          "title": "agg"
+        },
+        {
+          "children": [],
+          "description": "Write terminal GIFs as code for integration testing and demoing your CLI tools.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 515619101,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:02:35Z",
+            "owner": "charmbracelet",
+            "repo": "vhs",
+            "stars": 20667
+          },
+          "title": "vhs"
+        },
+        {
+          "children": [],
+          "description": "Record your terminal and generate animated gif images or share a web player link www.terminalizer.com",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 141910081,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16152
+          },
+          "title": "terminalizer"
+        },
+        {
+          "children": [],
+          "description": "Screen{shot,cast} and perform ImageOps on the command line - written in Rust",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 255603633,
+            "language": "Rust",
+            "last_commit": "2024-12-08T08:58:24Z",
+            "owner": "orhun",
+            "repo": "menyoki",
+            "stars": 667
+          },
+          "title": "menyoki"
+        },
+        {
+          "children": [],
+          "description": "Blazingly fast terminal recorder that generates animated gif images for the web written in rust.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 302482658,
+            "language": "Rust",
+            "last_commit": "2026-08-10T04:03:04Z",
+            "owner": "sassman",
+            "repo": "t-rec-rs",
+            "stars": 1249
+          },
+          "title": "t-rec"
+        },
+        {
+          "children": [],
+          "description": "termtosvg is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 136727471,
+            "language": "Python",
+            "last_commit": "2020-06-16T11:01:41Z",
+            "owner": "nbedos",
+            "repo": "termtosvg",
+            "stars": 9759
+          },
+          "title": "termtosvg"
+        },
+        {
+          "children": [],
+          "description": "ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 12060725,
+            "language": "C",
+            "last_commit": "2025-08-02T17:30:22Z",
+            "owner": "icholy",
+            "repo": "ttygif",
+            "stars": 4014
+          },
+          "title": "ttygif"
+        },
+        {
+          "children": [],
+          "description": "Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 38657802,
+            "language": "JavaScript",
+            "last_commit": "2017-07-10T03:58:27Z",
+            "owner": "chjj",
+            "repo": "ttystudio",
+            "stars": 3237
+          },
+          "title": "ttystudio"
+        },
+        {
+          "children": [],
+          "description": "Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 28171002,
+            "language": "JavaScript",
+            "last_commit": "2020-04-21T13:52:10Z",
+            "owner": "cortezcristian",
+            "repo": "terminal-recorder",
+            "stars": 111
+          },
+          "title": "terminal-recorder"
+        },
+        {
+          "children": [],
+          "description": "Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained html file that can be run in the browser, to playback the session.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 113700036,
+            "language": "CSS",
+            "last_commit": "2024-08-21T21:46:42Z",
+            "owner": "elisescu",
+            "repo": "tty-record",
+            "stars": 39
+          },
+          "title": "goscript"
+        },
+        {
+          "children": [],
+          "description": "savvy record starts a new sub-shell and all commands in this shell are recorded and sent to an LLM to generate a runbook. You can also create runbooks from your shell history. Savvy allows you to run any runbook using savvy run.\nsavvy record\nsavvy record history",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 738424511,
+            "language": "Go",
+            "last_commit": "2025-01-28T17:31:01Z",
+            "owner": "getsavvyinc",
+            "repo": "savvy-cli",
+            "stars": 464
+          },
+          "title": "savvy"
+        },
+        {
+          "children": [],
+          "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.\nrewindtty record and replay\nrewindtty analyze",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1027789393,
+            "language": "C",
+            "last_commit": "2026-02-11T11:20:16Z",
+            "owner": "rewindtty",
+            "repo": "rewindtty",
+            "stars": 130
+          },
+          "title": "rewindtty"
+        },
+        {
+          "children": [],
+          "description": "script, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with scriptreplay or re-runned with scriptlive.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 2339555,
+            "language": "C",
+            "last_commit": "2026-08-19T11:12:35Z",
+            "owner": "util-linux",
+            "repo": "util-linux",
+            "stars": 3206
+          },
+          "title": "script"
+        }
+      ],
+      "title": "Table of Repos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:03:32.630Z",
+    "last_updated": "2026-08-19T12:56:13.909Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
+    "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",
     "enhanced_repository": "enhansome/enhansome-terminal-recorder",
     "enhanced_repository_description": null,

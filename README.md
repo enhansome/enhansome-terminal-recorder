@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,740 | 🐛 102 | 📅 2026-08-18
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -44,7 +44,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,667 | 🐛 168 | 🌐 Go | 📅 2026-08-12
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,669 | 🐛 168 | 🌐 Go | 📅 2026-08-12
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 

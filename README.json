@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1691
+            "stars": 1698
           },
           "title": "agg"
         },
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-12T21:02:35Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20680
+            "stars": 20681
           },
           "title": "vhs"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16153
+            "stars": 16154
           },
           "title": "terminalizer"
         },
@@ -59,7 +59,7 @@
             "last_commit": "2024-12-08T08:58:24Z",
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 667
+            "stars": 666
           },
           "title": "menyoki"
         },
@@ -89,7 +89,7 @@
             "last_commit": "2020-06-16T11:01:41Z",
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9758
+            "stars": 9759
           },
           "title": "termtosvg"
         },
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-20T10:27:00Z",
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3207
+            "stars": 3208
           },
           "title": "script"
         }
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:05:50.854Z",
+    "last_updated": "2026-08-21T17:05:59.284Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
     "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",

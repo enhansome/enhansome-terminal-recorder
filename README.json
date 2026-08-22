@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1698
+            "stars": 1702
           },
           "title": "agg"
         },
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-12T21:02:35Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20681
+            "stars": 20690
           },
           "title": "vhs"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-08-10T04:03:04Z",
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1249
+            "stars": 1251
           },
           "title": "t-rec"
         },
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:05:59.284Z",
+    "last_updated": "2026-08-22T16:59:08.170Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
     "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",

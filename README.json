@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1702
+            "stars": 1703
           },
           "title": "agg"
         },
@@ -26,10 +26,10 @@
             "archived": false,
             "id": 515619101,
             "language": "Go",
-            "last_commit": "2026-08-12T21:02:35Z",
+            "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20697
+            "stars": 20703
           },
           "title": "vhs"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16153
+            "stars": 16152
           },
           "title": "terminalizer"
         },
@@ -191,7 +191,7 @@
             "archived": false,
             "id": 2339555,
             "language": "C",
-            "last_commit": "2026-08-20T10:27:00Z",
+            "last_commit": "2026-08-24T13:54:54Z",
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3211
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:00:42.697Z",
+    "last_updated": "2026-08-24T14:29:02.750Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
     "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",

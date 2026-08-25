@@ -29,7 +29,7 @@
             "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20703
+            "stars": 20706
           },
           "title": "vhs"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16152
+            "stars": 16153
           },
           "title": "terminalizer"
         },
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-24T13:54:54Z",
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3211
+            "stars": 3212
           },
           "title": "script"
         }
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:15:05.548Z",
+    "last_updated": "2026-08-25T06:22:29.163Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
     "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",

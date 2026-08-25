@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1703
+            "stars": 1704
           },
           "title": "agg"
         },
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20706
+            "stars": 20726
           },
           "title": "vhs"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-08-10T04:03:04Z",
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1252
+            "stars": 1253
           },
           "title": "t-rec"
         },
@@ -164,7 +164,7 @@
             "last_commit": "2025-01-28T17:31:01Z",
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 464
+            "stars": 463
           },
           "title": "savvy"
         },
@@ -191,7 +191,7 @@
             "archived": false,
             "id": 2339555,
             "language": "C",
-            "last_commit": "2026-08-24T13:54:54Z",
+            "last_commit": "2026-08-25T07:54:25Z",
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3212
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:29.163Z",
+    "last_updated": "2026-08-25T17:15:28.664Z",
     "original_repository": "orangekame3/awesome-terminal-recorder",
     "original_repository_id": 699887744,
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",

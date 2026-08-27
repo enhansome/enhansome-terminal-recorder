@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1705
+            "stars": 1706
           },
           "title": "agg"
         },
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20737
+            "stars": 20748
           },
           "title": "vhs"
         },
@@ -191,10 +191,10 @@
             "archived": false,
             "id": 2339555,
             "language": "C",
-            "last_commit": "2026-08-25T07:54:25Z",
+            "last_commit": "2026-08-27T10:44:24Z",
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3213
+            "stars": 3212
           },
           "title": "script"
         }
@@ -203,9 +203,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:23:54.875Z",
-    "original_repository": "orangekame3/awesome-terminal-recorder",
-    "original_repository_id": 699887744,
+    "last_updated": "2026-08-27T12:05:54.817Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 699887744,
+      "language": null,
+      "last_commit": "2026-05-05T12:29:47Z",
+      "owner": "orangekame3",
+      "repo": "awesome-terminal-recorder",
+      "stars": 256
+    },
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",
     "enhanced_repository": "enhansome/enhansome-terminal-recorder",
     "enhanced_repository_description": null,

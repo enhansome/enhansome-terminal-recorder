@@ -9,12 +9,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "asciinema gif generator",
+            "homepage": "https://docs.asciinema.org/manual/agg/",
             "id": 519132476,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T09:02:54Z",
+            "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1707
+            "stars": 1708,
+            "topics": [
+              "asciinema",
+              "gif",
+              "rust",
+              "terminal"
+            ]
           },
           "title": "agg",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -25,12 +35,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Your CLI home video recorder 📼",
+            "homepage": null,
             "id": 515619101,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:22:20Z",
+            "open_issues": 170,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20757
+            "stars": 20758,
+            "topics": [
+              "ascii",
+              "cli",
+              "command-line",
+              "gif",
+              "recording",
+              "terminal",
+              "vhs",
+              "video"
+            ]
           },
           "title": "vhs",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -41,12 +65,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🦄 Record your terminal and generate animated gif images or share a web player",
+            "homepage": "https://terminalizer.com",
             "id": 141910081,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-29T00:40:13Z",
+            "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16158
+            "stars": 16158,
+            "topics": [
+              "animated",
+              "bash",
+              "bash-profile",
+              "capture",
+              "colors",
+              "command-line",
+              "font",
+              "generate",
+              "gif",
+              "powershell",
+              "pty",
+              "record",
+              "render",
+              "repeat",
+              "shell",
+              "shot",
+              "terminal",
+              "theme",
+              "tty",
+              "zsh"
+            ]
           },
           "title": "terminalizer",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -57,12 +107,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️",
+            "homepage": "https://menyoki.cli.rs",
             "id": 255603633,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:07:10Z",
+            "open_issues": 17,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 666
+            "stars": 667,
+            "topics": [
+              "animated-png",
+              "animation",
+              "apng",
+              "capture",
+              "command-line",
+              "command-line-tool",
+              "gif-maker",
+              "gif-recorder",
+              "hacktoberfest",
+              "image",
+              "image-analysis",
+              "image-conversion",
+              "image-manipulation",
+              "image-processing",
+              "rust",
+              "screen-capture",
+              "screen-recorder",
+              "screencast",
+              "screenshot"
+            ]
           },
           "title": "menyoki",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -73,12 +148,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast terminal recorder that generates animated gif images for the web written in rust",
+            "homepage": "https://crates.io/crates/t-rec",
             "id": 302482658,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-10T04:03:04Z",
+            "open_issues": 27,
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1253
+            "stars": 1253,
+            "topics": [
+              "chrome",
+              "command-line-tool",
+              "demo",
+              "fast",
+              "gif-creator",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "recorder",
+              "rust",
+              "screen-recorder",
+              "screen-recording",
+              "screenshot-generator",
+              "screenshot-utility",
+              "terminal-recording",
+              "vscode"
+            ]
           },
           "title": "t-rec",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -89,12 +185,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Record terminal sessions as SVG animations",
+            "homepage": "https://nbedos.github.io/termtosvg/",
             "id": 136727471,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-06-16T11:01:41Z",
+            "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9758
+            "stars": 9758,
+            "topics": [
+              "animation",
+              "cli",
+              "recorder",
+              "recording",
+              "shell",
+              "svg",
+              "svg-animations",
+              "terminal"
+            ]
           },
           "title": "termtosvg",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -105,12 +215,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Convert terminal recordings to animated gifs",
+            "homepage": null,
             "id": 12060725,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-08-02T17:30:22Z",
+            "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4013
+            "stars": 4013,
+            "topics": [
+              "gifs",
+              "terminal"
+            ]
           },
           "title": "ttygif",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -121,12 +239,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A terminal-to-gif recorder minus the headaches.",
+            "homepage": null,
             "id": 38657802,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-07-10T03:58:27Z",
+            "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3237
+            "stars": 3237,
+            "topics": []
           },
           "title": "ttystudio",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -137,12 +260,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Terminal recorder: Record your termial session into HTML",
+            "homepage": "http://cortezcristian.com/terminal-recorder",
             "id": 28171002,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-21T13:52:10Z",
+            "open_issues": 1,
             "owner": "cortezcristian",
             "repo": "terminal-recorder",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "title": "terminal-recorder",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -153,12 +281,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simple tool to record a terminal session",
+            "homepage": null,
             "id": 113700036,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-08-21T21:46:42Z",
+            "open_issues": 1,
             "owner": "elisescu",
             "repo": "tty-record",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "terminal",
+              "terminal-recording"
+            ]
           },
           "title": "goscript",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -169,12 +305,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automatically capture and surface your team's tribal knowledge",
+            "homepage": "https://getsavvy.so",
             "id": 738424511,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-28T17:31:01Z",
+            "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "ai",
+              "automation",
+              "charmbracelet",
+              "cli",
+              "devops",
+              "devtool",
+              "go",
+              "golang",
+              "incident-response",
+              "llm",
+              "oncall",
+              "oncall-engineers",
+              "playbooks",
+              "runbooks",
+              "security-audit",
+              "sre",
+              "support",
+              "support-engineers",
+              "terminal"
+            ]
           },
           "title": "savvy",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -185,12 +346,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.",
+            "homepage": "https://www.rewindtty.dev",
             "id": 1027789393,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-11T11:20:16Z",
+            "open_issues": 0,
             "owner": "rewindtty",
             "repo": "rewindtty",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "ansi",
+              "c",
+              "cli",
+              "recorder",
+              "rewindtty",
+              "terminal",
+              "tty"
+            ]
           },
           "title": "rewindtty",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -201,12 +375,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://en.wikipedia.org/wiki/Util-linux",
             "id": 2339555,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T10:44:24Z",
+            "open_issues": 422,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3217
+            "stars": 3217,
+            "topics": []
           },
           "title": "script",
           "first_seen": "2026-08-29T00:42:03.813Z"
@@ -216,15 +395,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:42:03.813Z",
+    "last_updated": "2026-08-29T04:48:03.381Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
+      "homepage": null,
       "id": 699887744,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-05T12:29:47Z",
+      "open_issues": 1,
       "owner": "orangekame3",
       "repo": "awesome-terminal-recorder",
-      "stars": 255
+      "stars": 255,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cli",
+        "terminal"
+      ]
     },
     "original_repository_sha": "a2adf6fbd65bc3772977e1de6f58735b99e64130",
     "enhanced_repository": "enhansome/enhansome-terminal-recorder",

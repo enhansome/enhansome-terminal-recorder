@@ -14,9 +14,10 @@
             "last_commit": "2026-08-14T09:02:54Z",
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1706
+            "stars": 1707
           },
-          "title": "agg"
+          "title": "agg",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -29,9 +30,10 @@
             "last_commit": "2026-08-24T13:22:20Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20755
+            "stars": 20757
           },
-          "title": "vhs"
+          "title": "vhs",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -44,9 +46,10 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16156
+            "stars": 16158
           },
-          "title": "terminalizer"
+          "title": "terminalizer",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -56,12 +59,13 @@
             "archived": false,
             "id": 255603633,
             "language": "Rust",
-            "last_commit": "2024-12-08T08:58:24Z",
+            "last_commit": "2026-08-29T00:07:10Z",
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 665
+            "stars": 666
           },
-          "title": "menyoki"
+          "title": "menyoki",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "t-rec-rs",
             "stars": 1253
           },
-          "title": "t-rec"
+          "title": "t-rec",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "termtosvg",
             "stars": 9758
           },
-          "title": "termtosvg"
+          "title": "termtosvg",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "ttygif",
             "stars": 4013
           },
-          "title": "ttygif"
+          "title": "ttygif",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "ttystudio",
             "stars": 3237
           },
-          "title": "ttystudio"
+          "title": "ttystudio",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "terminal-recorder",
             "stars": 111
           },
-          "title": "terminal-recorder"
+          "title": "terminal-recorder",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -151,7 +160,8 @@
             "repo": "tty-record",
             "stars": 39
           },
-          "title": "goscript"
+          "title": "goscript",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -164,9 +174,10 @@
             "last_commit": "2025-01-28T17:31:01Z",
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 463
+            "stars": 464
           },
-          "title": "savvy"
+          "title": "savvy",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "rewindtty",
             "stars": 130
           },
-          "title": "rewindtty"
+          "title": "rewindtty",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         },
         {
           "children": [],
@@ -194,16 +206,17 @@
             "last_commit": "2026-08-27T10:44:24Z",
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3214
+            "stars": 3217
           },
-          "title": "script"
+          "title": "script",
+          "first_seen": "2026-08-29T00:42:03.813Z"
         }
       ],
       "title": "Table of Repos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:08:20.635Z",
+    "last_updated": "2026-08-29T00:42:03.813Z",
     "original_repository_info": {
       "archived": false,
       "id": 699887744,

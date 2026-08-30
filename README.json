@@ -41,10 +41,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-24T13:22:20Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20767,
+            "stars": 20772,
             "topics": [
               "ascii",
               "cli",
@@ -113,7 +113,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:07:10Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "orhun",
             "repo": "menyoki",
             "stars": 667,
@@ -381,10 +381,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-27T10:44:24Z",
-            "open_issues": 422,
+            "open_issues": 426,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3217,
+            "stars": 3218,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:30:39.648Z",
+    "last_updated": "2026-08-30T19:27:07.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

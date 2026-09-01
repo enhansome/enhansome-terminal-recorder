@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1712,
+            "stars": 1714,
             "topics": [
               "asciinema",
               "gif",
@@ -40,11 +40,11 @@
             "id": 515619101,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-24T13:22:20Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-01T07:25:31Z",
+            "open_issues": 172,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20776,
+            "stars": 20782,
             "topics": [
               "ascii",
               "cli",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9759,
+            "stars": 9758,
             "topics": [
               "animation",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4013,
+            "stars": 4012,
             "topics": [
               "gifs",
               "terminal"
@@ -345,7 +345,7 @@
           "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.\nrewindtty record and replay\nrewindtty analyze",
           "node_type": "item",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.",
             "homepage": "https://www.rewindtty.dev",
             "id": 1027789393,
@@ -380,8 +380,8 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T08:59:46Z",
-            "open_issues": 418,
+            "last_commit": "2026-09-01T18:15:28Z",
+            "open_issues": 421,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3219,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:37:50.206Z",
+    "last_updated": "2026-09-01T19:35:37.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
@@ -407,7 +407,7 @@
       "open_issues": 1,
       "owner": "orangekame3",
       "repo": "awesome-terminal-recorder",
-      "stars": 255,
+      "stars": 256,
       "topics": [
         "awesome",
         "awesome-list",

@@ -44,7 +44,7 @@
             "open_issues": 173,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20799,
+            "stars": 20804,
             "topics": [
               "ascii",
               "cli",
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3237,
+            "stars": 3235,
             "topics": []
           },
           "title": "ttystudio",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-02T11:34:45Z",
-            "open_issues": 421,
+            "last_commit": "2026-09-03T11:03:38Z",
+            "open_issues": 425,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3218,
+            "stars": 3220,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:30:06.833Z",
+    "last_updated": "2026-09-03T19:26:33.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

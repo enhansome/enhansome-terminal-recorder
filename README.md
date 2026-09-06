@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,266 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,593 | 🐛 106 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -38,19 +38,19 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://asciinema.org/a/335480.svg" width="600"/>
 
-### [agg](https://github.com/asciinema/agg) ⭐ 1,716 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
+### [agg](https://github.com/asciinema/agg) ⭐ 1,717 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
 
-*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,768 | 🐛 8 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,768 | 🐛 8 | 🌐 Rust | 📅 2026-08-14.*
+*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,772 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,772 | 🐛 10 | 🌐 Rust | 📅 2026-08-14.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,817 | 🐛 173 | 🌐 Go | 📅 2026-09-01
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,822 | 🐛 173 | 🌐 Go | 📅 2026-09-01
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
 <img src="https://stuff.charm.sh/vhs/examples/neofetch_3.gif" width="600"/>
 
-### [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,160 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
+### [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,162 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
 
 *Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](https://www.terminalizer.com/)*
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

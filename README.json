@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1720,
+            "stars": 1721,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 174,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20831,
+            "stars": 20838,
             "topics": [
               "ascii",
               "cli",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9755,
+            "stars": 9756,
             "topics": [
               "animation",
               "cli",
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3234,
+            "stars": 3233,
             "topics": []
           },
           "title": "ttystudio",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T11:03:38Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-08T11:42:29Z",
+            "open_issues": 428,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3225,
+            "stars": 3226,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:09:20.302Z",
+    "last_updated": "2026-09-08T19:35:19.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

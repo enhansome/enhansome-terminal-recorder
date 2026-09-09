@@ -40,11 +40,11 @@
             "id": 515619101,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T20:42:52Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-09T09:37:32Z",
+            "open_issues": 172,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20838,
+            "stars": 20845,
             "topics": [
               "ascii",
               "cli",
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3233,
+            "stars": 3232,
             "topics": []
           },
           "title": "ttystudio",
@@ -269,7 +269,7 @@
             "open_issues": 1,
             "owner": "cortezcristian",
             "repo": "terminal-recorder",
-            "stars": 111,
+            "stars": 110,
             "topics": []
           },
           "title": "terminal-recorder",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-08T11:42:29Z",
-            "open_issues": 428,
+            "last_commit": "2026-09-09T11:29:40Z",
+            "open_issues": 422,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3226,
+            "stars": 3227,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:35:19.994Z",
+    "last_updated": "2026-09-09T19:29:32.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

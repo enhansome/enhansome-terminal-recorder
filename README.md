@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,225 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,501 | 🐛 106 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -40,11 +40,11 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ### [agg](https://github.com/asciinema/agg) ⭐ 1,721 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
 
-*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,780 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,780 | 🐛 10 | 🌐 Rust | 📅 2026-08-14.*
+*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,787 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,787 | 🐛 10 | 🌐 Rust | 📅 2026-08-14.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,838 | 🐛 174 | 🌐 Go | 📅 2026-09-01
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,845 | 🐛 172 | 🌐 Go | 📅 2026-09-09
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
@@ -80,13 +80,13 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://i.imgur.com/nvEHTgn.gif" width="600"/>
 
-### [ttystudio](https://github.com/chjj/ttystudio) ⭐ 3,233 | 🐛 20 | 🌐 JavaScript | 📅 2017-07-10
+### [ttystudio](https://github.com/chjj/ttystudio) ⭐ 3,232 | 🐛 20 | 🌐 JavaScript | 📅 2017-07-10
 
 *Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.*
 
 <img src="https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif" width="600"/>
 
-### [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-21
+### [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-21
 
 *Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends.*
 
@@ -128,7 +128,7 @@ A terminal session recorder and replayer written in C that allows you to capture
 
 ***
 
-### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,226 | 🐛 428 | 🌐 C | 📅 2026-09-08
+### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,227 | 🐛 422 | 🌐 C | 📅 2026-09-09
 
 *script*, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with *scriptreplay* or re-runned with *scriptlive*.
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

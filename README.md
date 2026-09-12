@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,110 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,400 | 🐛 106 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -38,13 +38,13 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://asciinema.org/a/335480.svg" width="600"/>
 
-### [agg](https://github.com/asciinema/agg) ⭐ 1,722 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
+### [agg](https://github.com/asciinema/agg) ⭐ 1,723 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
 
-*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,793 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,793 | 🐛 10 | 🌐 Rust | 📅 2026-08-14.*
+*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,796 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,796 | 🐛 10 | 🌐 Rust | 📅 2026-08-14.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,861 | 🐛 173 | 🌐 Go | 📅 2026-09-09
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 20,876 | 🐛 174 | 🌐 Go | 📅 2026-09-09
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
@@ -56,7 +56,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://github.com/faressoft/terminalizer/blob/master/img/demo.gif?raw=true" width="600"/>
 
-### [menyoki](https://github.com/orhun/menyoki) ⭐ 668 | 🐛 19 | 🌐 Rust | 📅 2026-08-29
+### [menyoki](https://github.com/orhun/menyoki) ⭐ 668 | 🐛 21 | 🌐 Rust | 📅 2026-08-29
 
 *Screen{shot,cast} and perform ImageOps on the command line - written in Rust*
 
@@ -128,7 +128,7 @@ A terminal session recorder and replayer written in C that allows you to capture
 
 ***
 
-### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,228 | 🐛 429 | 🌐 C | 📅 2026-09-11
+### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,229 | 🐛 431 | 🌐 C | 📅 2026-09-11
 
 *script*, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with *scriptreplay* or re-runned with *scriptlive*.
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

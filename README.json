@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1723,
+            "stars": 1722,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 175,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20883,
+            "stars": 20899,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16164,
+            "stars": 16163,
             "topics": [
               "animated",
               "bash",
@@ -153,8 +153,8 @@
             "id": 302482658,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T04:02:51Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-14T04:03:13Z",
+            "open_issues": 29,
             "owner": "sassman",
             "repo": "t-rec-rs",
             "stars": 1253,
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9755,
+            "stars": 9754,
             "topics": [
               "animation",
               "cli",
@@ -314,7 +314,7 @@
             "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 465,
+            "stars": 464,
             "topics": [
               "ai",
               "automation",
@@ -381,10 +381,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-11T12:46:23Z",
-            "open_issues": 430,
+            "open_issues": 434,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3229,
+            "stars": 3230,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:57:03.020Z",
+    "last_updated": "2026-09-14T20:34:57.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

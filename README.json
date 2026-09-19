@@ -44,7 +44,7 @@
             "open_issues": 176,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20931,
+            "stars": 20937,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16162,
+            "stars": 16160,
             "topics": [
               "animated",
               "bash",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:12:14.348Z",
+    "last_updated": "2026-09-19T18:55:02.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

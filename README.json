@@ -40,11 +40,11 @@
             "id": 515619101,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:37:32Z",
-            "open_issues": 176,
+            "last_commit": "2026-09-24T09:17:32Z",
+            "open_issues": 173,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20965,
+            "stars": 20975,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16161,
+            "stars": 16163,
             "topics": [
               "animated",
               "bash",
@@ -116,7 +116,7 @@
             "open_issues": 21,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "animated-png",
               "animation",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4012,
+            "stars": 4013,
             "topics": [
               "gifs",
               "terminal"
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3231,
+            "stars": 3232,
             "topics": []
           },
           "title": "ttystudio",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-22T08:45:32Z",
-            "open_issues": 433,
+            "open_issues": 435,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3232,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:48:40.322Z",
+    "last_updated": "2026-09-24T20:08:10.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

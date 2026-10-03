@@ -381,10 +381,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-02T11:35:37Z",
-            "open_issues": 433,
+            "open_issues": 434,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3235,
+            "stars": 3236,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:58:26.294Z",
+    "last_updated": "2026-10-03T05:08:48.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

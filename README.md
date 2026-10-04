@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,074 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,624 | 🐛 107 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -40,17 +40,17 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ### [agg](https://github.com/asciinema/agg) ⭐ 1,729 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
 
-*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,856 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,856 | 🐛 12 | 🌐 Rust | 📅 2026-08-14.*
+*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,857 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,857 | 🐛 12 | 🌐 Rust | 📅 2026-08-14.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,044 | 🐛 175 | 🌐 Go | 📅 2026-10-01
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,056 | 🐛 175 | 🌐 Go | 📅 2026-10-01
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
 <img src="https://stuff.charm.sh/vhs/examples/neofetch_3.gif" width="600"/>
 
-### [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,167 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
+### [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,168 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
 
 *Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](https://www.terminalizer.com/)*
 
@@ -62,7 +62,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://user-images.githubusercontent.com/24392180/99543947-cdeb2280-29c4-11eb-87a9-ad559f9522ad.gif" width="600"/>
 
-### [t-rec](https://github.com/sassman/t-rec-rs) ⭐ 1,255 | 🐛 29 | 🌐 Rust | 📅 2026-09-21
+### [t-rec](https://github.com/sassman/t-rec-rs) ⭐ 1,256 | 🐛 29 | 🌐 Rust | 📅 2026-09-21
 
 *Blazingly fast terminal recorder that generates animated gif images for the web written in rust.*
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

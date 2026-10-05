@@ -41,10 +41,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T20:42:55Z",
-            "open_issues": 175,
+            "open_issues": 174,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21056,
+            "stars": 21062,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16168,
+            "stars": 16169,
             "topics": [
               "animated",
               "bash",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T11:35:37Z",
+            "last_commit": "2026-10-05T11:35:00Z",
             "open_issues": 434,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3236,
+            "stars": 3237,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:48:11.136Z",
+    "last_updated": "2026-10-05T22:54:58.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

@@ -44,7 +44,7 @@
             "open_issues": 174,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21072,
+            "stars": 21074,
             "topics": [
               "ascii",
               "cli",
@@ -116,7 +116,7 @@
             "open_issues": 21,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "animated-png",
               "animation",
@@ -157,7 +157,7 @@
             "open_issues": 29,
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "chrome",
               "command-line-tool",
@@ -380,8 +380,8 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T12:24:38Z",
-            "open_issues": 436,
+            "last_commit": "2026-10-08T09:52:57Z",
+            "open_issues": 433,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3238,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:35:01.038Z",
+    "last_updated": "2026-10-08T21:30:17.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

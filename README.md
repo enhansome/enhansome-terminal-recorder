@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,184 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,635 | 🐛 105 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -40,11 +40,11 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ### [agg](https://github.com/asciinema/agg) ⭐ 1,730 | 🐛 5 | 🌐 Rust | 📅 2026-08-14
 
-*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,870 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,870 | 🐛 12 | 🌐 Rust | 📅 2026-08-14.*
+*agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,871 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,871 | 🐛 12 | 🌐 Rust | 📅 2026-08-14.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,088 | 🐛 174 | 🌐 Go | 📅 2026-10-01
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,096 | 🐛 174 | 🌐 Go | 📅 2026-10-01
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
@@ -128,7 +128,7 @@ A terminal session recorder and replayer written in C that allows you to capture
 
 ***
 
-### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,238 | 🐛 438 | 🌐 C | 📅 2026-10-08
+### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,240 | 🐛 439 | 🌐 C | 📅 2026-10-08
 
 *script*, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with *scriptreplay* or re-runned with *scriptlive*.
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

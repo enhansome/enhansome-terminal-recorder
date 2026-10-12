@@ -44,7 +44,7 @@
             "open_issues": 174,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21096,
+            "stars": 21106,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -153,8 +153,8 @@
             "id": 302482658,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T04:04:25Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-12T10:12:28Z",
+            "open_issues": 30,
             "owner": "sassman",
             "repo": "t-rec-rs",
             "stars": 1257,
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9755,
+            "stars": 9754,
             "topics": [
               "animation",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4013,
+            "stars": 4012,
             "topics": [
               "gifs",
               "terminal"
@@ -380,8 +380,8 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-08T09:52:57Z",
-            "open_issues": 439,
+            "last_commit": "2026-10-12T12:49:52Z",
+            "open_issues": 438,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3240,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:34:38.799Z",
+    "last_updated": "2026-10-12T23:13:38.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
@@ -407,7 +407,7 @@
       "open_issues": 1,
       "owner": "orangekame3",
       "repo": "awesome-terminal-recorder",
-      "stars": 258,
+      "stars": 260,
       "topics": [
         "awesome",
         "awesome-list",

@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,931 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,394 | 🐛 105 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -44,7 +44,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,135 | 🐛 177 | 🌐 Go | 📅 2026-10-01
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,140 | 🐛 177 | 🌐 Go | 📅 2026-10-01
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
@@ -56,7 +56,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://github.com/faressoft/terminalizer/blob/master/img/demo.gif?raw=true" width="600"/>
 
-### [menyoki](https://github.com/orhun/menyoki) ⭐ 672 | 🐛 21 | 🌐 Rust | 📅 2026-08-29
+### [menyoki](https://github.com/orhun/menyoki) ⭐ 673 | 🐛 21 | 🌐 Rust | 📅 2026-08-29
 
 *Screen{shot,cast} and perform ImageOps on the command line - written in Rust*
 
@@ -100,7 +100,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ***
 
-### [savvy](https://github.com/getsavvyinc/savvy-cli) ⭐ 465 | 🐛 0 | 🌐 Go | 📅 2025-01-28
+### [savvy](https://github.com/getsavvyinc/savvy-cli) ⭐ 464 | 🐛 0 | 🌐 Go | 📅 2025-01-28
 
 *savvy record starts a new sub-shell and all commands in this shell are recorded and sent to an LLM to generate a runbook. You can also create runbooks from your shell history. Savvy allows you to run any runbook using savvy run.*
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1730,
+            "stars": 1732,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21153,
+            "stars": 21157,
             "topics": [
               "ascii",
               "cli",
@@ -380,8 +380,8 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-19T13:20:10Z",
-            "open_issues": 441,
+            "last_commit": "2026-10-20T11:08:41Z",
+            "open_issues": 435,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3242,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:14:45.766Z",
+    "last_updated": "2026-10-20T20:08:00.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21164,
+            "stars": 21171,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16172,
+            "stars": 16169,
             "topics": [
               "animated",
               "bash",
@@ -116,7 +116,7 @@
             "open_issues": 21,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "animated-png",
               "animation",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4012,
+            "stars": 4011,
             "topics": [
               "gifs",
               "terminal"
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3233,
+            "stars": 3232,
             "topics": []
           },
           "title": "ttystudio",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "rewindtty",
             "repo": "rewindtty",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "ansi",
               "c",
@@ -381,10 +381,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-21T09:02:30Z",
-            "open_issues": 432,
+            "open_issues": 437,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3242,
+            "stars": 3240,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:21:22.380Z",
+    "last_updated": "2026-10-22T20:18:05.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

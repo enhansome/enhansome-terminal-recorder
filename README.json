@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1732,
+            "stars": 1734,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21171,
+            "stars": 21185,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16168,
             "topics": [
               "animated",
               "bash",
@@ -157,7 +157,7 @@
             "open_issues": 30,
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1257,
+            "stars": 1256,
             "topics": [
               "chrome",
               "command-line-tool",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:18:05.596Z",
+    "last_updated": "2026-10-23T20:05:11.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
@@ -407,7 +407,7 @@
       "open_issues": 1,
       "owner": "orangekame3",
       "repo": "awesome-terminal-recorder",
-      "stars": 260,
+      "stars": 261,
       "topics": [
         "awesome",
         "awesome-list",

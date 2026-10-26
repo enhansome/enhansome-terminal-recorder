@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1735,
+            "stars": 1737,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21199,
+            "stars": 21209,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16168,
+            "stars": 16169,
             "topics": [
               "animated",
               "bash",
@@ -314,7 +314,7 @@
             "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "ai",
               "automation",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T09:02:30Z",
-            "open_issues": 440,
+            "last_commit": "2026-10-26T19:10:46Z",
+            "open_issues": 443,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3244,
+            "stars": 3245,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:15:48.431Z",
+    "last_updated": "2026-10-26T21:11:51.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

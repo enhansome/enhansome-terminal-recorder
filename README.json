@@ -14,11 +14,11 @@
             "id": 519132476,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-14T09:02:54Z",
+            "last_commit": "2026-10-27T10:32:23Z",
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "asciinema",
               "gif",
@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21209,
+            "stars": 21215,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -116,7 +116,7 @@
             "open_issues": 20,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "animated-png",
               "animation",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9756,
+            "stars": 9755,
             "topics": [
               "animation",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4011,
+            "stars": 4010,
             "topics": [
               "gifs",
               "terminal"
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3232,
+            "stars": 3231,
             "topics": []
           },
           "title": "ttystudio",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:11:51.273Z",
+    "last_updated": "2026-10-27T20:58:42.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

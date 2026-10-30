@@ -44,7 +44,7 @@
             "open_issues": 177,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21229,
+            "stars": 21231,
             "topics": [
               "ascii",
               "cli",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-26T19:10:46Z",
-            "open_issues": 443,
+            "open_issues": 448,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3247,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:26:14.351Z",
+    "last_updated": "2026-10-30T21:03:00.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

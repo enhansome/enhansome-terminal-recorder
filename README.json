@@ -41,10 +41,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T20:42:55Z",
-            "open_issues": 177,
+            "open_issues": 176,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21231,
+            "stars": 21234,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16171,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9753,
+            "stars": 9755,
             "topics": [
               "animation",
               "cli",
@@ -314,7 +314,7 @@
             "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "ai",
               "automation",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-26T19:10:46Z",
-            "open_issues": 448,
+            "open_issues": 449,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3247,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:03:00.794Z",
+    "last_updated": "2026-10-31T20:18:00.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

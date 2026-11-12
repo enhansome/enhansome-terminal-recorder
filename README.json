@@ -44,7 +44,7 @@
             "open_issues": 179,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21309,
+            "stars": 21319,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16174,
+            "stars": 16173,
             "topics": [
               "animated",
               "bash",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-11T15:52:00Z",
-            "open_issues": 446,
+            "open_issues": 450,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3250,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:03:31.568Z",
+    "last_updated": "2026-11-12T22:27:04.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
@@ -407,7 +407,7 @@
       "open_issues": 3,
       "owner": "orangekame3",
       "repo": "awesome-terminal-recorder",
-      "stars": 263,
+      "stars": 264,
       "topics": [
         "awesome",
         "awesome-list",

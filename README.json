@@ -44,7 +44,7 @@
             "open_issues": 179,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21319,
+            "stars": 21310,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16173,
+            "stars": 16172,
             "topics": [
               "animated",
               "bash",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9753,
+            "stars": 9752,
             "topics": [
               "animation",
               "cli",
@@ -248,7 +248,7 @@
             "open_issues": 20,
             "owner": "chjj",
             "repo": "ttystudio",
-            "stars": 3231,
+            "stars": 3230,
             "topics": []
           },
           "title": "ttystudio",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-11T15:52:00Z",
-            "open_issues": 450,
+            "open_issues": 451,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3250,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:27:04.072Z",
+    "last_updated": "2026-11-13T22:11:05.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

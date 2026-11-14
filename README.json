@@ -44,7 +44,7 @@
             "open_issues": 179,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21310,
+            "stars": 21315,
             "topics": [
               "ascii",
               "cli",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9752,
+            "stars": 9753,
             "topics": [
               "animation",
               "cli",
@@ -384,7 +384,7 @@
             "open_issues": 451,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3250,
+            "stars": 3251,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:11:05.470Z",
+    "last_updated": "2026-11-14T20:56:05.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

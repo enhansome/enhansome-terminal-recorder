@@ -44,7 +44,7 @@
             "open_issues": 179,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21327,
+            "stars": 21336,
             "topics": [
               "ascii",
               "cli",
@@ -116,7 +116,7 @@
             "open_issues": 21,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 677,
+            "stars": 676,
             "topics": [
               "animated-png",
               "animation",
@@ -314,7 +314,7 @@
             "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "ai",
               "automation",
@@ -381,7 +381,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-11T15:52:00Z",
-            "open_issues": 451,
+            "open_issues": 457,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3253,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:29:52.027Z",
+    "last_updated": "2026-11-17T23:39:09.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

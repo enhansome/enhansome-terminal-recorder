@@ -41,10 +41,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-06T14:16:05Z",
-            "open_issues": 179,
+            "open_issues": 181,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21336,
+            "stars": 21340,
             "topics": [
               "ascii",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16170,
+            "stars": 16171,
             "topics": [
               "animated",
               "bash",
@@ -157,7 +157,7 @@
             "open_issues": 30,
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1258,
+            "stars": 1257,
             "topics": [
               "chrome",
               "command-line-tool",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4011,
+            "stars": 4013,
             "topics": [
               "gifs",
               "terminal"
@@ -380,8 +380,8 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-11T15:52:00Z",
-            "open_issues": 457,
+            "last_commit": "2026-11-18T13:48:32Z",
+            "open_issues": 445,
             "owner": "util-linux",
             "repo": "util-linux",
             "stars": 3253,
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:39:09.997Z",
+    "last_updated": "2026-11-18T23:07:53.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",

@@ -2,7 +2,7 @@
 
 # 🎥 Awesome Terminal Recorder 📼 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,004 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,517 | 🐛 103 | 📅 2026-09-02
 
 Curated list of outstanding terminal Recorder that make your day brighter!
 
@@ -38,13 +38,13 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://asciinema.org/a/335480.svg" width="600"/>
 
-### [agg](https://github.com/asciinema/agg) ⭐ 1,747 | 🐛 5 | 🌐 Rust | 📅 2026-10-27
+### [agg](https://github.com/asciinema/agg) ⭐ 1,746 | 🐛 5 | 🌐 Rust | 📅 2026-10-27
 
 *agg is a command-line tool for generating animated GIF files from [asciicast v2 files](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md) ⭐ 17,975 | 🐛 14 | 🌐 Rust | 📅 2026-11-17 produced by [asciinema terminal recorder](https://github.com/asciinema/asciinema) ⭐ 17,975 | 🐛 14 | 🌐 Rust | 📅 2026-11-17.*
 
 <img src="https://github.com/asciinema/agg/blob/main/demo.gif?raw=true" width="600"/>
 
-### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,340 | 🐛 181 | 🌐 Go | 📅 2026-11-06
+### [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,346 | 🐛 182 | 🌐 Go | 📅 2026-11-06
 
 *Write terminal GIFs as code for integration testing and demoing your CLI tools.*
 
@@ -56,13 +56,13 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://github.com/faressoft/terminalizer/blob/master/img/demo.gif?raw=true" width="600"/>
 
-### [menyoki](https://github.com/orhun/menyoki) ⭐ 676 | 🐛 21 | 🌐 Rust | 📅 2026-10-24
+### [menyoki](https://github.com/orhun/menyoki) ⭐ 675 | 🐛 21 | 🌐 Rust | 📅 2026-10-24
 
 *Screen{shot,cast} and perform ImageOps on the command line - written in Rust*
 
 <img src="https://user-images.githubusercontent.com/24392180/99543947-cdeb2280-29c4-11eb-87a9-ad559f9522ad.gif" width="600"/>
 
-### [t-rec](https://github.com/sassman/t-rec-rs) ⭐ 1,257 | 🐛 30 | 🌐 Rust | 📅 2026-10-12
+### [t-rec](https://github.com/sassman/t-rec-rs) ⭐ 1,256 | 🐛 30 | 🌐 Rust | 📅 2026-10-12
 
 *Blazingly fast terminal recorder that generates animated gif images for the web written in rust.*
 
@@ -74,7 +74,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 <img src="https://raw.githubusercontent.com/nbedos/termtosvg/258a3fdb17faf06d4f1525603185ef18b4ab7920/docs/examples/awesome_window_frame_powershell.svg" width="600"/>
 
-### [ttygif](https://github.com/icholy/ttygif) ⭐ 4,013 | 🐛 17 | 🌐 C | 📅 2025-08-02
+### [ttygif](https://github.com/icholy/ttygif) ⭐ 4,012 | 🐛 17 | 🌐 C | 📅 2025-08-02
 
 *ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.*
 
@@ -100,7 +100,7 @@ Curated list of outstanding terminal Recorder that make your day brighter!
 
 ***
 
-### [savvy](https://github.com/getsavvyinc/savvy-cli) ⭐ 467 | 🐛 0 | 🌐 Go | 📅 2025-01-28
+### [savvy](https://github.com/getsavvyinc/savvy-cli) ⭐ 466 | 🐛 0 | 🌐 Go | 📅 2025-01-28
 
 *savvy record starts a new sub-shell and all commands in this shell are recorded and sent to an LLM to generate a runbook. You can also create runbooks from your shell history. Savvy allows you to run any runbook using savvy run.*
 
@@ -128,7 +128,7 @@ A terminal session recorder and replayer written in C that allows you to capture
 
 ***
 
-### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,253 | 🐛 445 | 🌐 C | 📅 2026-11-18
+### [script](https://github.com/util-linux/util-linux/blob/master/term-utils/script.1.adoc) ⭐ 3,254 | 🐛 444 | 🌐 C | 📅 2026-11-19
 
 *script*, from util-linux, makes a typescript of everything on your terminal session. It can later be re-played with *scriptreplay* or re-runned with *scriptlive*.
 
@@ -142,4 +142,4 @@ Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

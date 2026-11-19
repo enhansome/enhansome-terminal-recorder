@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "asciinema",
             "repo": "agg",
-            "stars": 1747,
+            "stars": 1746,
             "topics": [
               "asciinema",
               "gif",
@@ -41,10 +41,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-06T14:16:05Z",
-            "open_issues": 181,
+            "open_issues": 182,
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 21340,
+            "stars": 21346,
             "topics": [
               "ascii",
               "cli",
@@ -116,7 +116,7 @@
             "open_issues": 21,
             "owner": "orhun",
             "repo": "menyoki",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "animated-png",
               "animation",
@@ -157,7 +157,7 @@
             "open_issues": 30,
             "owner": "sassman",
             "repo": "t-rec-rs",
-            "stars": 1257,
+            "stars": 1256,
             "topics": [
               "chrome",
               "command-line-tool",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "nbedos",
             "repo": "termtosvg",
-            "stars": 9753,
+            "stars": 9751,
             "topics": [
               "animation",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 17,
             "owner": "icholy",
             "repo": "ttygif",
-            "stars": 4013,
+            "stars": 4012,
             "topics": [
               "gifs",
               "terminal"
@@ -314,7 +314,7 @@
             "open_issues": 0,
             "owner": "getsavvyinc",
             "repo": "savvy-cli",
-            "stars": 467,
+            "stars": 466,
             "topics": [
               "ai",
               "automation",
@@ -380,11 +380,11 @@
             "id": 2339555,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-18T13:48:32Z",
-            "open_issues": 445,
+            "last_commit": "2026-11-19T13:19:51Z",
+            "open_issues": 444,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3253,
+            "stars": 3254,
             "topics": []
           },
           "title": "script",
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:07:53.290Z",
+    "last_updated": "2026-11-19T23:14:05.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.",
